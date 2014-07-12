@@ -1,0 +1,31 @@
+{
+  "name": "rah1",
+  "version": "0.0.0",
+  "description": "This example app is so cool.",
+  "main": "web.js",
+  "scripts": {
+    "test": "https://github.com/rahamath1986/rah1.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahamath1986/rah1.git"
+  },
+  "keywords": [
+    "rah"
+  ],
+  "author": "rahamath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahamath1986/rah1/issues"
+  },
+  "homepage": "https://github.com/rahamath1986/rah1",
+  "dependencies": {
+    "express": "^4.6.0",
+    "logfmt": "^1.1.2"
+  }
+}
+{
+  "engines": {
+    "node": "0.10.x"
+  }
+}
