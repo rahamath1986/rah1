@@ -1,10 +1,10 @@
 {
   "name": "rah1",
   "version": "0.0.0",
-  "description": "",
+  "description": "My first Cloud app",
   "main": "web.js",
   "dependencies": {
-    "express": "^4.6.0",
+    "express": "^4.6.1",
     "logfmt": "^1.1.2"
   },
   "devDependencies": {},
@@ -15,10 +15,11 @@
     "type": "git",
     "url": "https://github.com/rahamath1986/rah1.git"
   },
-  "author": "",
+  "author": "rahamath",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rahamath1986/rah1/issues"
   },
   "homepage": "https://github.com/rahamath1986/rah1"
 }
+{"engines":{"node":"0.10.x"}}
